@@ -3,7 +3,9 @@
         <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1713796888~exp=1713797488~hmac=60f7832139a4aaff133a67790507276f7ac110aebcb7c08eb4b26dca2bf072c2"  height ="400" width ="700"alt="MasterHead" />
     </a>
 <h1 align="center">Hi 👋, I'm Sharoon Daniel</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharoon858&label=Profile%20views&color=0e75b6&style=flat" alt="sharoon858" /> </p>
 
